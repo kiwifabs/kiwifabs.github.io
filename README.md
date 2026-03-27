@@ -1,2 +1,2 @@
 # kiwifabs.github.io
-Fine steel furniture, Kiwi designed, Sheffield handmade
+Fine steel furniture, Kiwi designed, handmade in Sheffield
