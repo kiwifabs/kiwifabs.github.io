@@ -8,3 +8,7 @@ Fine steel furniture, Kiwi designed, handmade in Sheffield
 
 
 <link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
+
+
+<a href="shop.md">Shop</a>
+<a href="about.md">About Me</a>
