@@ -1,4 +1,10 @@
-index
+COMING SOON
 
-<a href="about.md">Page 1</a>
-<a href="shop.md">Page 2</a>
+# Kiwi Fabrications
+Fine steel furniture, Kiwi designed, handmade in Sheffield
+
+![Local Image](./30.03.26_kiwifabs.png)
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
