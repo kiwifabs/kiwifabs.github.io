@@ -1,5 +1,9 @@
 COMING SOON
 
-Kiwi Fabrications
-![Local Image](./KIWIFAB.png)
+# Kiwi Fabrications
 Fine steel furniture, Kiwi designed, handmade in Sheffield
+
+![Local Image](./KIWIFAB.png)
+
+
+
