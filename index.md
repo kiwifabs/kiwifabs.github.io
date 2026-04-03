@@ -4,8 +4,15 @@ layout: default
 
 <link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
 
+
 [Month's drop](./months-drop.html).
 [How to Order](./how-to-order.html).
+<!-- 
+[What to Expect](./what-to-expect.html).
+[Manuals and Guides](./manuals-and-guides.html). 
+[Existing Designs](./existing-designs.html). 
+-->
+
 
 # *COMING SOON*
 
