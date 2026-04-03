@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
