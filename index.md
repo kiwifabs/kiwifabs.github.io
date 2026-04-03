@@ -17,7 +17,7 @@ Based in a self-build workshop in Sheffield, Owner Joe Cullingford designs, buil
 
 ## Canti Table
 
-![canti table](/assets/canti1.jpg)
+![canti table](/assets/img/canti1.jpg)
 
 Cantilever lightweight design, allowing it to be slid around your floor and slot in under a variety of furniture, typically sofas.
 
