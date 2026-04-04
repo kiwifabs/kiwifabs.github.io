@@ -5,12 +5,13 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
 
 
-[Month's drop](./months-drop.html).
+[Monthly drop](./months-drop.html).
 [How to Order](./how-to-order.html).
 <!-- 
 [What to Expect](./what-to-expect.html).
 [Manuals and Guides](./manuals-and-guides.html). 
 [Existing Designs](./existing-designs.html). 
+
 -->
 
 
@@ -40,8 +41,13 @@ Flat pack design for compact & safe transport. Easy to assemble with just a few 
 
 ## Contact Joe Cullingford
 
-*Email:* joe.cullingford@kiwifabrications.co.uk
-Sheffield, South Yorkshire
+<dl>
+<dt>Email</dt>
+<dd>joe.cullingford@kiwifabrications.co.uk/dd>
+<dt>Based</dt>
+<dd>Sheffield, South Yorkshire</dd>
+<dt>Instagram</dt>
+<dd>https://www.instagram.com/kiwi.fabs/</dd>
+</dl>
 
-final
 ```
