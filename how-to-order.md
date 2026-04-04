@@ -15,4 +15,5 @@ The full and final price including delivery to UK mainland excluding highlands w
 In the unfortunate even that two of you request the same item, I will reserve it for the first person who has contacted me and notify the second that it has unfortunately been already reserved. 
 
 
-[back](./)
+[Home](./)
+```

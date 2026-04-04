@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Month's drop
 
-_yay_
+# *COMING SOON*
 
-[back](./)
+
+[Home](./)
+```
