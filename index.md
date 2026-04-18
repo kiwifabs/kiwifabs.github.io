@@ -41,13 +41,11 @@ Flat pack design for compact & safe transport. Easy to assemble with just a few 
 
 ## Contact Joe Cullingford
 
-<dl>
-<dt>Email</dt>
-<dd>joe.cullingford@kiwifabrications.co.uk/dd>
-<dt>Based</dt>
-<dd>Sheffield, South Yorkshire</dd>
-<dt>Instagram</dt>
-<dd>https://www.instagram.com/kiwi.fabs/</dd>
-</dl>
+[joe.cullingford@kiwifabrications.co.uk](joe.cullingford@kiwifabrications.co.uk)
 
-```
+Or find me on [Instagram](https://www.instagram.com/kiwi.fabs)
+
+
+I am based in Sheffield, South Yorkshire
+
+
