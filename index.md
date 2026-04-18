@@ -41,7 +41,7 @@ Flat pack design for compact & safe transport. Easy to assemble with just a few 
 
 ## Contact Joe Cullingford
 
-[joe.cullingford@kiwifabrications.co.uk](joe.cullingford@kiwifabrications.co.uk)
+[joe.cullingford@kiwifabrications.co.uk](mailto:joe.cullingford@kiwifabrications.co.uk)
 
 Or find me on [Instagram](https://www.instagram.com/kiwi.fabs)
 
